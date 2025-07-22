@@ -1,4 +1,4 @@
-# Open Source Quaker Meeting (OSQM)
+# [Open Source Quaker Meeting (OSQM)](https://github.com/operarioribeiro/OpenSourceQuakerMeeting)
 
 > _"A testimony of community."_
 
